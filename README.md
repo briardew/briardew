@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematical modeling, computation, data assimilation (or AI/ML if you please), Earth science, and the carbon cycle.
 - 🌱 I’m currently learning to get through the day.
 - 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me briardew@gmail.com.
+- 📫 How to reach me: briardew@gmail.com.
 
 <!---
 briardew/briardew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
