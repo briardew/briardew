@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @briardew
-- 🛰️ I’m interested in mathematical modeling, computation and data assimilation (or AI/ML if you please), Earth science, and the carbon cycle.
+- 🛰️ I’m interested in mathematical modeling, computation and data assimilation (or AI/ML if you please), Earth science, the carbon cycle, and remote sensing.
 - 🌱 I’m currently working on some carbon cycle and remote sensing stuff.
 - 💞️ I’m looking to collaborate on carbon cycle and remote sensing stuff.
 - 📫 How to reach me: briardew@gmail.com.
